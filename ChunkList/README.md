@@ -1,7 +1,6 @@
 # ChunkList
 
 [comment]: <> (Do not remove this!)
-![Points badge](../../blob/badges/.github/badges/points.svg)
 
 > **Note:** It will take 2-5 minutes for the points to update after you push.
 >

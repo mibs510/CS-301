@@ -1,5 +1,3 @@
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
 # Assignment 0 Instructions:  Box Class
 
 Copyright Varick Erickson
